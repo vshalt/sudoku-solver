@@ -33,5 +33,5 @@ You can install the project locally by cloning the repo
 9 1 0 0 0 3 6 0 0
 0 6 0 0 1 4 2 3 9
 ```
-- After your puzzle is written in `input.txt`, run the program by `python3 solver.py`.
+- After your puzzle is written in `input.txt`, run the program by typing `python3 solver.py`.
 - The solution will be printed in the terminal. Also a copy will be saved in a new file called `solution.txt`
